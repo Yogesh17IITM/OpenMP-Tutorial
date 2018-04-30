@@ -24,7 +24,7 @@ main ()
       printf("\n # Order not deterministic # \n");
       printf("\n Out of parallel region \n");
 
-      // Hey, here are some non-sense. You may skip reading and proceed further. Cheers !!!
+      // Please skip reading this and proceed further. Cheers !!!
       printf("\n Before coding you'll feel: OMG !! What is this??");
       printf("\n  After coding you'll feel: What is the big deal with this !! \n");
       printf("\n Feel the difference. Enjoy coding :) \n");
