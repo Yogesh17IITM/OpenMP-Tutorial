@@ -1,5 +1,8 @@
 // This program is to demonstrate how to divide the loop iterations among threads acc. to "schedule" Clause
 
+// There are two ways of doing
+// 1) static (provided here) and 2) Dynamics (provided in the next example)
+
 // For more details about the OpenMP Directives and Clauses, one can refer the following webpage.
 // Link: http://scc.ustc.edu.cn/zlsc/sugon/intel/compiler_c/main_cls/optaps/common/optaps_par_dirs.htm
 
@@ -32,7 +35,6 @@ main()
       }
     }
 }
-
 
 // Aliter:
 // main()
