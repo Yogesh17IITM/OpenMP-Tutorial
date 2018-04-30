@@ -30,7 +30,7 @@ main ()
       printf("\n Feel the difference. Enjoy coding :) \n");
 }
 
-// Credits goes to:
+//  References:
 //  Yun (Helen), NERSC
 //  William Gropp, Illinois
 //  Van Criekingen, UPJV / MeCS
