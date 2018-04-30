@@ -7,4 +7,4 @@ Editor &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbs
 OpenMp flag &nbsp;  &nbsp;  &nbsp;  &nbsp;  : -fopenmp <br />
 
 To compile &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  : gcc -fopenmp <filename.c> <br />
-To run &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  : ./a.out <br />
+To run &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : ./a.out <br />
