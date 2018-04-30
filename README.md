@@ -2,9 +2,9 @@
 OpenMP for Beginners 
 
 Language used     : C <br />
-Compiler required : GCC
-Editor            : ATOM (Preferable),Codeblocks
-OpenMp flag       : -fopenmp
+Compiler required : GCC <br />
+Editor            : ATOM (Preferable),Codeblocks <br />
+OpenMp flag       : -fopenmp <br />
 
-To compile        : gcc -fopenmp <filename.c>
-To run            : ./a.out
+To compile        : gcc -fopenmp <filename.c> <br />
+To run            : ./a.out <br />
