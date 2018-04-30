@@ -22,6 +22,7 @@ main()
       // Syntax for dividing the iterations among threads:
       // #pragma omp for schedule(type, [chunk])
       // Type can be static (used here) or dynamic (used in the next example)
+      // chunk: number of iterations assigned to one thread at a time
 
       #pragma omp for schedule (static,chunk)
       for(i=0;i<N;i++)
