@@ -4,6 +4,7 @@
 // Link: http://scc.ustc.edu.cn/zlsc/sugon/intel/compiler_c/main_cls/optaps/common/optaps_par_dirs.htm
 
 // Notes on outputs: One can notice that no. of iterations performed by each thread based on the chunk size.
+// you may use ./a.out | sort (for sorting results)
 
 #include<stdio.h>
 #include<omp.h>
