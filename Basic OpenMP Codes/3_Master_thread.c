@@ -18,7 +18,7 @@ main()
       int nt_req = omp_get_num_threads();
       //int nt = omp_get_thread_num();    // Check this //
       printf("No. of threads requested: %i \n", nt_req);
-      // Note: '%i' is unsigned integer
+      // Note: '%i' is an unsigned integer, %d is the signed integer
       //nt = nt_req;    // Check this //
     }
 
