@@ -1,7 +1,7 @@
 # OpenMP-Tutorial
 OpenMP for Beginners 
 
-Language used     : C <br />
+Language used   &nbsp  : C <br />
 Compiler required : GCC <br />
 Editor            : ATOM (Preferable),Codeblocks <br />
 OpenMp flag       : -fopenmp <br />
