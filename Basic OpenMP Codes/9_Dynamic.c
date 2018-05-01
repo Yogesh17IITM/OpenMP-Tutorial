@@ -1,5 +1,5 @@
 // This program demonstrates the usage of "Dynamic" type of "schedule" Clause
-// This is similat to static type, except that the order of threads by which the chunk is assigned is NOT DETERMINISTIC.
+// This is similat to static type, except that the order of threads for which the chunk is assigned is NOT DETERMINISTIC.
 
 #include <stdio.h>
 #include<omp.h>
