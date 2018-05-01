@@ -14,7 +14,7 @@
 
 main()
 {
-    int i,tid, nth;     // (i- iter; tid- thread ID; nth- no. of threads)
+    int i,tid, nth;     // (i- iter; tid- thread ID; nth- total no. of threads)
     int N=5,  chunk=2;  // (N- no. of iter; chunk- no. of iter. divided among threads)
     omp_set_num_threads(4);
 
@@ -34,6 +34,8 @@ main()
         printf("This is iter: %d handled by thread: %d out of %d \n",i,tid,nth);
       }
     }
+
+    printf("\n Note: In this case, 4th thread (i.e thread no: 3) gets no work \n");
 }
 
 // Aliter:
