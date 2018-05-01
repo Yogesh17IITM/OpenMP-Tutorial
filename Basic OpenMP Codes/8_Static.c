@@ -16,7 +16,7 @@ main()
 {
     int i,tid, nth;     // (i- iter; tid- thread ID; nth- total no. of threads)
     int N=5,  chunk=2;  // (N- no. of iter; chunk- no. of iter. divided among threads)
-    omp_set_num_threads(4);
+    omp_set_num_threads(10);
 
     #pragma omp parallel private(i,tid) shared(N,nth,chunk)
     {
