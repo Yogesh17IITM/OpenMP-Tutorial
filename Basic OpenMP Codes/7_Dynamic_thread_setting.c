@@ -1,4 +1,4 @@
-// This program demonstrates "Dynamics threading"
+// This program demonstrates "Dynamic thread setting"
 
 // This requires setting OMP_DYNAMIC environment variable to TRUE.
 // Eg: export OMP_DYNAMIC=TRUE
