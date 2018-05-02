@@ -4,7 +4,7 @@
 //  3) Reduction
 // We will see, one by one. Firstly, let us start with barrier.
 
-// In 'barrier', thread waits until all other threads finish the task.
+// In 'barrier', thread waits until all other threads finishes the task.
 
 #include<stdio.h>
 #include<omp.h>
