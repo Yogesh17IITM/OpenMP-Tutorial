@@ -1,5 +1,5 @@
 # OpenMP-Tutorial
-OpenMP for Beginners 
+OpenMP for Beginners !!
 
 Language used  &nbsp;  &nbsp; : C <br />
 Compiler required : GCC <br />
