@@ -36,6 +36,6 @@ main ()
 //  Van Criekingen, UPJV / MeCS
 
 // Noticed any bugs?
-// please write to me: am16d028@smail.iitm.ac.in
+// please write to me: am16d028@smail.iitm.ac.in (or) yogeshwaranrubin@gmail.com
 // by 
 // Yogesh, FSI Lab, IIT Madras
